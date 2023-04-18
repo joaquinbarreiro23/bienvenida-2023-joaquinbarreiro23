@@ -1,1 +1,1 @@
-doble x = x * 2
+triple x = x * 3
